@@ -1,0 +1,6 @@
+recommendation_rank,policy_id,policy,projected_pm25,estimated_reduction,assumed_reduction_pct,budget_units,impact_per_budget_unit,estimate_type
+1,P05,Targeted green intervention,30.77,0.79,2.5,1,0.79,Scenario estimate
+2,P02,Improve industrial emission efficiency,29.04,2.53,8.0,4,0.6325,Scenario estimate
+3,P03,Shift trips to public transport,30.3,1.26,4.0,2,0.63,Scenario estimate
+4,P01,Reduce heavy vehicle activity,29.99,1.58,5.0,3,0.5266666666666667,Scenario estimate
+5,P04,Cleaner energy transition,29.67,1.89,6.0,5,0.378,Scenario estimate

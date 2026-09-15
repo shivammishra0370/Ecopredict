@@ -1,0 +1,9 @@
+{
+    "status": "Awaiting verified post-intervention observations",
+    "required_inputs": [
+        "baseline observed PM2.5",
+        "policy implementation date/window",
+        "post-policy observed PM2.5",
+        "expected scenario reduction"
+    ]
+}
