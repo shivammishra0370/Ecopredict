@@ -1,0 +1,5 @@
+Inspection Rank,Station,Current PM2.5,24h Forecast PM2.5,Anomaly,Risk Score,Tomorrow Risk,Inspection Priority Score,Inspection Level
+1,Lalbagh,30.87,41.86,0,15.9,Low,15.9,Monitor
+2,Gomti Nagar,11.33,29.11,0,10.39,Low,10.39,Monitor
+3,Talkatora DIC,24.41,21.78,0,9.96,Low,9.96,Monitor
+4,Kendriya Vidyalaya,11.98,20.72,0,7.94,Low,7.94,Monitor

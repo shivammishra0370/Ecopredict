@@ -1,0 +1,6 @@
+policy_id,policy,baseline_pm25,projected_pm25,estimated_reduction,assumed_reduction_pct,budget_units,estimate_type,impact_per_budget_unit
+P01,Reduce heavy vehicle activity,31.56,29.99,1.58,5.0,3,Scenario estimate,0.5266666666666667
+P02,Improve industrial emission efficiency,31.56,29.04,2.53,8.0,4,Scenario estimate,0.6325
+P03,Shift trips to public transport,31.56,30.3,1.26,4.0,2,Scenario estimate,0.63
+P04,Cleaner energy transition,31.56,29.67,1.89,6.0,5,Scenario estimate,0.378
+P05,Targeted green intervention,31.56,30.77,0.79,2.5,1,Scenario estimate,0.79

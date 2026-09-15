@@ -1,0 +1,9 @@
+{
+    "selected_policies": "Reduce heavy vehicle activity, Shift trips to public transport, Targeted green intervention",
+    "baseline_pm25": 31.56,
+    "combined_assumed_reduction_pct": 11.5,
+    "projected_pm25": 27.93,
+    "estimated_reduction": 3.63,
+    "total_budget_units": 6,
+    "estimate_type": "Scenario estimate"
+}

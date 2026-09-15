@@ -1,0 +1,5 @@
+Station,Model,Train rows,Test rows,MAE,RMSE,R2
+Kendriya Vidyalaya,HistGradientBoosting,7046,2293,16.652,24.836,0.43
+Talkatora DIC,Random Forest,8110,3026,19.278,27.09,0.504
+Gomti Nagar,Random Forest,11106,3871,20.982,32.617,0.011
+Lalbagh,Random Forest,5085,789,22.994,29.737,-0.199

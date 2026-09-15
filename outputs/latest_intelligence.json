@@ -1,0 +1,10 @@
+{
+    "location": "Gomti Nagar, Lucknow, Uttar Pradesh",
+    "timestamp": "2026-08-30 23:00:00",
+    "current_pm25": 11.33,
+    "predicted_pm25_24h": 31.56,
+    "anomaly_detected": false,
+    "risk_score": 8.58,
+    "risk_category": "Low",
+    "forecast_model": "Random Forest"
+}

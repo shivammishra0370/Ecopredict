@@ -1,0 +1,101 @@
+{
+    "city": "Lucknow",
+    "forecast_horizon_hours": 24,
+    "stations": [
+        {
+            "Station": "Lalbagh",
+            "Latest timestamp": "2026-08-31 23:00:00",
+            "Current PM2.5": 30.87,
+            "24h Forecast PM2.5": 41.86,
+            "Recent 24h Mean PM2.5": 24.7,
+            "Anomaly": 0,
+            "Risk Score": 15.9,
+            "Tomorrow Risk": "Low",
+            "Forecast Model": "Random Forest",
+            "Tomorrow Priority Rank": 1
+        },
+        {
+            "Station": "Gomti Nagar",
+            "Latest timestamp": "2026-08-31 23:00:00",
+            "Current PM2.5": 11.33,
+            "24h Forecast PM2.5": 29.11,
+            "Recent 24h Mean PM2.5": 28.57,
+            "Anomaly": 0,
+            "Risk Score": 10.39,
+            "Tomorrow Risk": "Low",
+            "Forecast Model": "Random Forest",
+            "Tomorrow Priority Rank": 2
+        },
+        {
+            "Station": "Talkatora DIC",
+            "Latest timestamp": "2026-08-31 23:00:00",
+            "Current PM2.5": 24.41,
+            "24h Forecast PM2.5": 21.78,
+            "Recent 24h Mean PM2.5": 18.64,
+            "Anomaly": 0,
+            "Risk Score": 9.96,
+            "Tomorrow Risk": "Low",
+            "Forecast Model": "Random Forest",
+            "Tomorrow Priority Rank": 3
+        },
+        {
+            "Station": "Kendriya Vidyalaya",
+            "Latest timestamp": "2026-08-31 23:00:00",
+            "Current PM2.5": 11.98,
+            "24h Forecast PM2.5": 20.72,
+            "Recent 24h Mean PM2.5": 19.77,
+            "Anomaly": 0,
+            "Risk Score": 7.94,
+            "Tomorrow Risk": "Low",
+            "Forecast Model": "HistGradientBoosting",
+            "Tomorrow Priority Rank": 4
+        }
+    ],
+    "inspection_priority": [
+        {
+            "Inspection Rank": 1,
+            "Station": "Lalbagh",
+            "Current PM2.5": 30.87,
+            "24h Forecast PM2.5": 41.86,
+            "Anomaly": 0,
+            "Risk Score": 15.9,
+            "Tomorrow Risk": "Low",
+            "Inspection Priority Score": 15.9,
+            "Inspection Level": "Monitor"
+        },
+        {
+            "Inspection Rank": 2,
+            "Station": "Gomti Nagar",
+            "Current PM2.5": 11.33,
+            "24h Forecast PM2.5": 29.11,
+            "Anomaly": 0,
+            "Risk Score": 10.39,
+            "Tomorrow Risk": "Low",
+            "Inspection Priority Score": 10.39,
+            "Inspection Level": "Monitor"
+        },
+        {
+            "Inspection Rank": 3,
+            "Station": "Talkatora DIC",
+            "Current PM2.5": 24.41,
+            "24h Forecast PM2.5": 21.78,
+            "Anomaly": 0,
+            "Risk Score": 9.96,
+            "Tomorrow Risk": "Low",
+            "Inspection Priority Score": 9.96,
+            "Inspection Level": "Monitor"
+        },
+        {
+            "Inspection Rank": 4,
+            "Station": "Kendriya Vidyalaya",
+            "Current PM2.5": 11.98,
+            "24h Forecast PM2.5": 20.72,
+            "Anomaly": 0,
+            "Risk Score": 7.94,
+            "Tomorrow Risk": "Low",
+            "Inspection Priority Score": 7.94,
+            "Inspection Level": "Monitor"
+        }
+    ],
+    "note": "Risk and priority values are prototype decision-support indicators. They are not official regulatory classifications."
+}
